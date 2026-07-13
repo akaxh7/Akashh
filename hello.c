@@ -2,8 +2,8 @@
 
 int main()
 {
-    print("Hello World! This is Geeksforgeeks.org")
-    print("Akashh")
-    print("This i a c program")
+    printf("Hello World! This is Geeksforgeeks.org")
+    printf("Akashh")
+    printf("This i a c program")
     return 0;
 }
